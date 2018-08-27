@@ -465,6 +465,12 @@ class CfgLoadouts
 		displayName = "Australian Defence Force (AUSCAM, 2005)";
 		category = "Western Factions";
 		#include "loadouts\adf_2005.hpp"
+	};	
+	class ARVN_1966
+	{
+		displayName = "Army of the Republic of Vietnam (1966, OD GREEN)";
+		category = "Other";
+		#include "loadouts\ARVN_1966.hpp"
 	};
 	
 	class SYRIAN_ARAB_ARMY_WDL
